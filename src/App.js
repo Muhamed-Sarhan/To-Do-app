@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h2>DIMOFINF Todo List ({toDoList.length})</h2>
+        <h2>MS14 Todo List ({toDoList.length})</h2>
       </header>
       <Form
         inputText={inputText}
